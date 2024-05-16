@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/josequinonez/Codes/MauiVerter/MauiVerter/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiVerter.app
