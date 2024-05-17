@@ -34,7 +34,7 @@
             <Image>
                 <Image.Source>
                     <FontImageSource
-                        FontFamily="Icons   "
+                        FontFamily="Icons"
                         Glyph="&#xF0A0;"
                         Size="50" />
                 </Image.Source>
@@ -57,7 +57,7 @@
             <Image>
                 <Image.Source>
                     <FontImageSource
-                        FontFamily="Icons   "
+                        FontFamily="Icons"
                         Glyph="&#xF1B2;"
                         Size="50" />
                 </Image.Source>
@@ -71,7 +71,29 @@
         </Grid>
         <!--#endregion-->
         <!--#Region Length-->
-    <!--#endregion-->    <!--#Region Mass
+        <Grid
+            Grid.Row="1"
+            Grid.Column="2"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor3}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xF044;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Length"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+        <!--#endregion-->    
+        <!--#Region Mass
       -->
       <!--#endregion-->  <!--#Region Temperature-->
       <!--#endregion-->
