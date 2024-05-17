@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
-		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		FD+cEX7njPle08gbPsa+e+dow0s=
 		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -34,15 +34,19 @@
 		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
-		egvqYQJu98U5bepNqiiYGWJc9As=
+		hT68p03GDyQE7K2cUbiSf32gHFY=
 		</data>
 		<key>Resources/dotnet_bot@2x.png</key>
 		<data>
-		5Olnli4Cc1nAHZR7Qad9WEquVR0=
+		qGPwQVcG7NqBOp09qBhU+tMbpXk=
 		</data>
 		<key>Resources/dotnet_bot@3x.png</key>
 		<data>
-		Zt+VE+uuJQUze/d9zd3r+NdrtDw=
+		hBT8Pm526xxzLtDpjk4f/WNZxKA=
+		</data>
+		<key>Resources/fontello.ttf</key>
+		<data>
+		47UALsRJXHbMtN39dVcPA/AR0dk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,14 +55,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1WqsJeu5fx02ICyrQJ0PkA4HZ+17nRFhYKMGx0QwfSY=
+			j6Mmiyq2yqZYNxlhTb8UX0EvieIBzL1w4Z5DwLTsNNw=
 			</data>
 		</dict>
 		<key>MonoBundle/MauiVerter.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6yxGftm2ZJaqPRXrJR6ecnJjdH+H1yRYsY+hRL4lXrY=
+			99pBZ4EzLoIJnWD8e/Yzl5TXW4qxcU3kYN1eORc89BQ=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1633,7 +1637,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
+			xsAzT9Dd7CcqM1mQ7CT05dtEDipw5dcUcz4UUE9xe0E=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
@@ -1668,21 +1672,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRD2xBX1wchOeHEX2Af77q7m8O7ECwhQ0qzPcfEGsTM=
+			ebJ61QhKurlaZK50o1POFTQIodN4aInMKf7fJBBanTs=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A9+c5HONTmrGGxPzPiicd+2iwsPQSTUCIhuPtWauMa8=
+			xXn0rur3qfagwQb6enPARgs0DSiITTVw8Uk+ptgHg+E=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Up4t4C3+oRoTqJRc+zJSfhbhdg8R3zWbHkE+G9N4B9U=
+			4WOv67zjLV01qoTabAjKPANzApzvLyEhnLTF3xlhluk=
+			</data>
+		</dict>
+		<key>Resources/fontello.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pvclSyxKRkylnVedOIo5yefj5ni2SKQo8MAEqjomV0M=
 			</data>
 		</dict>
 	</dict>

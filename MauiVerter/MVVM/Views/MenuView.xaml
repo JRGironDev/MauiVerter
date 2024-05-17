@@ -31,10 +31,46 @@
             Padding="15"
             RowDefinitions=".7*, .3*"
             BackgroundColor="{StaticResource AppColor1}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons   "
+                        Glyph="&#xF0A0;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Information"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
         </Grid>
         <!--#endregion-->
-        <!--#Region Length
-    -->
+        <!--#Region Volumen-->
+        <Grid
+            Grid.Row="1"
+            Grid.Column="1"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor2}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons   "
+                        Glyph="&#xF1B2;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Volume"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+        <!--#endregion-->
+        <!--#Region Length-->
     <!--#endregion-->    <!--#Region Mass
       -->
       <!--#endregion-->  <!--#Region Temperature-->
