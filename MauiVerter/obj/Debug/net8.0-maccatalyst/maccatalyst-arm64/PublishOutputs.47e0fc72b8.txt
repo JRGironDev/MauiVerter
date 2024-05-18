@@ -33,6 +33,10 @@
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/zh-HK/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/zh-Hant/Microsoft.Maui.Controls.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/fr-CA/UnitsNet.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/nb-NO/UnitsNet.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/ru-RU/UnitsNet.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/zh-CN/UnitsNet.resources.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/runtimeconfig.bin
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
@@ -49,6 +53,7 @@
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/UnitsNet.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/MauiVerter.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

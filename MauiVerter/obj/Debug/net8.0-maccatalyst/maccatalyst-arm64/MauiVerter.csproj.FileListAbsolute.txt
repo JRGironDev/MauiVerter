@@ -300,3 +300,8 @@
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiVerter.genruntimeconfig.cache
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/MauiVerter.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resizetizer/f/fontello.ttf
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/UnitsNet.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/fr-CA/UnitsNet.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/nb-NO/UnitsNet.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/ru-RU/UnitsNet.resources.dll
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/zh-CN/UnitsNet.resources.dll

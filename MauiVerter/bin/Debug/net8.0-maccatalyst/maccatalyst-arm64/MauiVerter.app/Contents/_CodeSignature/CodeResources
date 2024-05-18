@@ -55,14 +55,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QzZiQUj5UavJRC+2InN2NAtk2IXWi2+tpRyUoCRhzeU=
+			A6L9K1F9y8vkmSmm7VCR5uCLd/wR84Fe96nUpfh+OP0=
 			</data>
 		</dict>
 		<key>MonoBundle/MauiVerter.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9R4oqrC0DXb2pZWrqGK1c68HJO6EZK66F5SlI+QiIE0=
+			moJANWuWq0BdbSYWzZzEKScMhnVLCVA7ETovDkXeZrs=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1346,6 +1346,13 @@
 			2u/LI60UtkPhwfQxjOnZszxXn9UiUku80UDJTDd1USk=
 			</data>
 		</dict>
+		<key>MonoBundle/UnitsNet.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aLXFInHQdDbI7EFsNO7Mr0eXkobyPEBESSemArcJRx8=
+			</data>
+		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1407,6 +1414,13 @@
 			<key>hash2</key>
 			<data>
 			Nub62bMQbybaIswM2VLhRVEX1khs2mJVGDnGEVft6Lg=
+			</data>
+		</dict>
+		<key>MonoBundle/fr-CA/UnitsNet.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KAZ6954LCScoDt6VFQSC9imaZu5GcC1RWTsFIdYg4jk=
 			</data>
 		</dict>
 		<key>MonoBundle/fr/Microsoft.Maui.Controls.resources.dll</key>
@@ -1493,6 +1507,13 @@
 			xo7Rwt193ETuzmFVfo7jQf48lATgyHilrdSvPkvSFB8=
 			</data>
 		</dict>
+		<key>MonoBundle/nb-NO/UnitsNet.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AJpxbz7NfIbwincgeIMA1n4wM44CIb5WOsH5SI45CWE=
+			</data>
+		</dict>
 		<key>MonoBundle/nb/Microsoft.Maui.Controls.resources.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1540,6 +1561,13 @@
 			<key>hash2</key>
 			<data>
 			w3QAUXrFNl9XXnD0NHIqr0ziALo+HCjQdq7DnVPo7FA=
+			</data>
+		</dict>
+		<key>MonoBundle/ru-RU/UnitsNet.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ztn5dR1bhC5KHBJ/07K1vtHL9HrvVhIQKyBGXiNhVlc=
 			</data>
 		</dict>
 		<key>MonoBundle/ru/Microsoft.Maui.Controls.resources.dll</key>
@@ -1596,6 +1624,13 @@
 			<key>hash2</key>
 			<data>
 			rgfqDDypptSOkbBgNcIw3MxuGWA8M+9gz1EcSshQTjM=
+			</data>
+		</dict>
+		<key>MonoBundle/zh-CN/UnitsNet.resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2nwMjyJNLpG/tHMbdMD/wl7eIAd75GQlj1vpEIsA5OY=
 			</data>
 		</dict>
 		<key>MonoBundle/zh-HK/Microsoft.Maui.Controls.resources.dll</key>
