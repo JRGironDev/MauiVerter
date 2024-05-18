@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiVerter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+253efd4a85ac157b5e07c460b61bcdc74b6b119a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+32534c20b2fb44e577dbf650f3a14e50c0d0ba14")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiVerter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiVerter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

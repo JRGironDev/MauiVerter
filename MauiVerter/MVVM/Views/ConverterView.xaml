@@ -22,10 +22,26 @@
                     HorizontalTextAlignment="Center"
                     Text="100"
                     TextColor="{StaticResource TextColor}" />
+                <Picker
+                    HorizontalTextAlignment="Center"
+                    TextColor="{StaticResource TextColor}" />
             </VerticalStackLayout>
         </Grid>
-        <Grid Row="1" BackgroundColor="{StaticResource AppColor2}">
-
+        <Grid 
+            Row="1" 
+            BackgroundColor="{StaticResource AppColor2}">
+            <VerticalStackLayout
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="Center">
+                <Label
+                    FontSize="100"
+                    HorizontalTextAlignment="Center"
+                    Text="100"
+                    TextColor="{StaticResource TextColor}" />
+                <Picker
+                    HorizontalTextAlignment="Center"
+                    TextColor="{StaticResource TextColor}" />
+            </VerticalStackLayout>
         </Grid>
     </Grid>
 

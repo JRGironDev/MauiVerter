@@ -72,6 +72,10 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "UnitsNet": {
+              "target": "Package",
+              "version": "[5.50.0, )"
             }
           },
           "imports": [
@@ -115,6 +119,10 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "UnitsNet": {
+              "target": "Package",
+              "version": "[5.50.0, )"
             }
           },
           "imports": [
@@ -158,6 +166,10 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "UnitsNet": {
+              "target": "Package",
+              "version": "[5.50.0, )"
             }
           },
           "imports": [
@@ -184,6 +196,21 @@
         }
       },
       "runtimes": {
+        "android-arm": {
+          "#import": []
+        },
+        "android-arm64": {
+          "#import": []
+        },
+        "android-x64": {
+          "#import": []
+        },
+        "android-x86": {
+          "#import": []
+        },
+        "iossimulator-arm64": {
+          "#import": []
+        },
         "maccatalyst-arm64": {
           "#import": []
         }

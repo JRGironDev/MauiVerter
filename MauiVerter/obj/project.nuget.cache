@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "K3DR/5mfvlNdayjZ4QgdCll77ADOeRI9lT/bUWP5ocEsP3zIePMTQGrry0qlzWCB6yMZfY9x01NhSLrp+GMaeg==",
+  "dgSpecHash": "Zhd7AsPeh19ZpLgbFHaHish8eNf0z0a06AJE/XkCKV3Nt0Er6fZpU2flubIzF+gn8S+Xw3eA97BDaijyaZqsmA==",
   "success": true,
   "projectFilePath": "/Users/josequinonez/Codes/MauiVerter/MauiVerter/MauiVerter.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "/Users/josequinonez/.nuget/packages/microsoft.maui.graphics/8.0.7/microsoft.maui.graphics.8.0.7.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.maui.resizetizer/8.0.7/microsoft.maui.resizetizer.8.0.7.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.net.illink.tasks/8.0.3/microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "/Users/josequinonez/.nuget/packages/unitsnet/5.50.0/unitsnet.5.50.0.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/xamarin.android.glide/4.15.1.2/xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/xamarin.android.glide.annotations/4.15.1.2/xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/xamarin.android.glide.disklrucache/4.15.1.2/xamarin.android.glide.disklrucache.4.15.1.2.nupkg.sha512",
