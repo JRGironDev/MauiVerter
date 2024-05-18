@@ -20,8 +20,9 @@
                 <Entry
                     FontSize="100"
                     HorizontalTextAlignment="Center"
-                    Text="100"
-                    TextColor="{StaticResource TextColor}" />
+                    Text="{Binding FromValue}"
+                    TextColor="{StaticResource TextColor}" 
+                    ReturnCommand="{Binding ReturnCommand}"/>
                 <Picker
                     HorizontalTextAlignment="Center"
                     TextColor="{StaticResource TextColor}" 
@@ -38,7 +39,7 @@
                 <Label
                     FontSize="100"
                     HorizontalTextAlignment="Center"
-                    Text="100"
+                    Text="{Binding ToValue, StringFormat='{0:0.##}'}"
                     TextColor="{StaticResource TextColor}" />
                 <Picker
                     HorizontalTextAlignment="Center"

@@ -1,4 +1,5 @@
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/icudt.dat
+/Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/PropertyChanged.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/ar/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/ca/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/Codes/MauiVerter/MauiVerter/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../MauiVerter.app/Contents/MonoBundle/cs/Microsoft.Maui.Controls.resources.dll
