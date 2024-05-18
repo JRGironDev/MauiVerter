@@ -93,19 +93,142 @@
                 VerticalTextAlignment="Center"/>
         </Grid>
         <!--#endregion-->    
-        <!--#Region Mass
-      -->
-      <!--#endregion-->  <!--#Region Temperature-->
+        <!--#Region Mass-->
+        <Grid
+            Grid.Row="2"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor2}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xF24E;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Mass"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+      <!--#endregion-->  
+      <!--#Region Temperature-->
+        <Grid
+            Grid.Row="2"
+            Grid.Column="1"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor3}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xE803;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Temperature"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
       <!--#endregion-->
-        <!--#Region Energy
-    -->
-    <!--#endregion-->    <!--#Region Area
-      -->
-      <!--#endregion-->  <!--#Region Speed
-     -->
-     <!--#endregion-->   <!--#Region Duration
-  -->
-  <!--#endregion-->  
+      <!--#Region Energy-->
+        <Grid
+            Grid.Row="2"
+            Grid.Column="2"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor2}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xF525;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Energy"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+    <!--#endregion-->   
+    <!--#Region Area-->
+        <Grid
+            Grid.Row="3"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor3}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xF1FE;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Area"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+    <!--#endregion-->  
+    <!--#Region Speed-->
+        <Grid
+            Grid.Row="3"
+            Grid.Column="1"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor2}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xE800;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Speed"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+    <!--#endregion-->   
+    <!--#Region Duration-->
+        <Grid
+            Grid.Row="3"
+            Grid.Column="2"
+            Padding="15"
+            RowDefinitions=".7*, .3*"
+            BackgroundColor="{StaticResource AppColor3}" >
+            <Image>
+                <Image.Source>
+                    <FontImageSource
+                        FontFamily="Icons"
+                        Glyph="&#xE803;"
+                        Size="50" />
+                </Image.Source>
+            </Image>
+            <Label
+                Grid.Row="1"
+                HorizontalTextAlignment="Center"
+                Text="Duration"
+                TextColor="{StaticResource TextColor}"
+                VerticalTextAlignment="Center"/>
+        </Grid>
+    <!--#endregion-->  
   </Grid>
 
 </ContentPage>
