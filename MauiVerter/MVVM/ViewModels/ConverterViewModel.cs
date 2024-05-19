@@ -23,16 +23,16 @@ namespace MauiVerter.MVVM.ViewModels
 
         public double ToValue { get; set; }
 
-        public ICommand ReturnCommand => new Command( () => Convert());
+        public ICommand ReturnCommand => new Command(() => Convert());
 
-        public ConverterViewModel()
+        public ConverterViewModel(string quiantiyName)
         {
-            QuantityName = "Length";
+            QuantityName = quiantiyName;
             FromMeasures = LoadMeasures();
             ToMeasures = LoadMeasures();
 
-            CurrentFromMeasure = "Meter";
-            CurrentToMeasure = "Centimeter";
+            CurrentFromMeasure = FromMeasures.FirstOrDefault();
+            CurrentToMeasure = ToMeasures.Skip(1).FirstOrDefault();
             Convert();
         }
 
